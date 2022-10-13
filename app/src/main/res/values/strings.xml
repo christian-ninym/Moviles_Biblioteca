@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">biblioteca</string>
+    <string name="titulomain">Aplicativo Biblioteca</string>
+    <string name="categoriasbtn">EDITORIALES</string>
+    <string name="productosbtn">LIBROS</string>
+    <string name="regresar">VOLVER</string>
+
+
+    <string name="name_categorias">Lista de Libros</string>
+
+
+    <string name="name_productos">Lista de Editoriales</string>
+
+</resources>
